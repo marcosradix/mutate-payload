@@ -148,3 +148,6 @@ This plugin follows **Clean Architecture** principles:
 -   **Domain**: `FormatConverter` interface.
 -   **Use Cases**: Specific implementations (`JsonConverter`, `ToonConverter`, etc.).
 -   **Adapters**: `ConverterFactory` for selecting the right converter.
+
+## Acknowledgements
+This project was created with the help of **Google Antigravity**.
