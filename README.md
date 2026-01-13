@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the MIT License.
+
 # Insomnia Payload Converter Plugin
 
 An Insomnia plugin that automatically converts your request payload between different formats (JSON, YAML, XML, TOML, TOON) before the request is sent.
