@@ -1,0 +1,19 @@
+{
+  "name": "insomnia-plugin-payload-mutate",
+  "version": "1.0.0",
+  "description": "Insomnia plugin to convert payload format automatically",
+  "main": "main.js",
+  "insomnia": {
+    "name": "payload-mutate",
+    "description": "Convert payload format automatically"
+  },
+  "scripts": {
+    "test": "node src/test/suite.js"
+  },
+  "dependencies": {
+    "@iarna/toml": "^2.2.5",
+    "@toon-format/toon": "^2.1.0",
+    "js-yaml": "^4.1.1",
+    "xml-js": "^1.6.11"
+  }
+}
